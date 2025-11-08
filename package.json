@@ -1,0 +1,7 @@
+{
+  "name": "fanrank",
+  "version": "1.0.0",
+  "scripts": { "start": "react-scripts start", "build": "react-scripts build" },
+  "dependencies": { "react": "^18", "react-dom": "^18" },
+  "devDependencies": { "react-scripts": "5.0.1" }
+}
